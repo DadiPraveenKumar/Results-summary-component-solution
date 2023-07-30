@@ -29,7 +29,7 @@ Results summary component screenshot
 Links
 
     Solution URL: 
-    Live Site URL:
+    Live Site URL:https://dadipraveenkumar.github.io/Results-summary-component-solution/
 
 My process
 Built with
